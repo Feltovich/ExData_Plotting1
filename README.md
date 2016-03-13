@@ -1,5 +1,12 @@
 ## Introduction
 
+"Week 1 - Programming Assignment.R" reads in the text file
+"household_power_consumption.txt" and calls the programs
+plot1.R - plot4.R.
+
+The remainder of the readme file is from the original 
+forked GitHub repository:
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
